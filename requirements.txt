@@ -13,3 +13,4 @@ isort
 pytest
 pytest-cov
 starlette
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
